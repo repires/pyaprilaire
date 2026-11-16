@@ -4,7 +4,7 @@
 #
 #    pip-compile --extra=dev pyproject.toml
 #
-black==23.1.0
+black==26.10.1
     # via pyaprilaire (pyproject.toml)
 build==0.10.0
     # via pip-tools
@@ -48,7 +48,7 @@ pluggy==1.0.0
     # via pytest
 pyproject-hooks==1.0.0
     # via build
-pytest==7.3.1
+pytest==9.0.3
     # via
     #   pytest-asyncio
     #   pytest-cov
